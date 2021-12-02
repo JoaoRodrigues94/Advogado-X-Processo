@@ -1,0 +1,50 @@
+.tabela {
+    width: 100vw;
+    margin: 0.2%;
+    text-align: center;
+  }
+  
+  .rodape {
+    height: 10vh;
+    border: 1px solid blue;
+    margin: 0.2%;
+    background-color: black;
+    text-decoration-color: crimson;
+  }
+
+  .processos {
+    height: 60vh;
+    border: 3px solid black;
+    margin: 0.2% ;
+    background-color: gray;
+    text-align: center;
+    text-decoration: underline;
+   }
+  
+  tbody tr th{
+    width: 10;
+  }
+
+  h2, .welcome{
+    text-align: center;
+    text-decoration-line: underline;
+  }
+  
+  .welcome{
+    color: blue;
+  }
+  
+  .geral {
+    height: 99vh;
+    border: 1px solid darkblue;
+    margin: 0.2%;
+    background-color: grey;
+  }
+
+  .areaDados {
+    min-height: 92vh;
+    border: 3px solid black;
+    margin: 0.2% ;
+    background-color: white;
+   }
+  
